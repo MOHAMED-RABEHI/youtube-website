@@ -26,8 +26,10 @@ This project is a minimalist clone of the **YouTube homepage** using only **HTML
 ## 🚀 Getting Started
 
 1. Clone or download the repository.
-2. 
+ 
+ 
  git  clone https://github.com/MOHAMED-RABEHI/youtube-website.git
 
-3. Open index.html in your browser.
-4. Explore the layout—try resizing the window for responsivene
+
+2. Open index.html in your browser.
+3. Explore the layout—try resizing the window for responsivene
